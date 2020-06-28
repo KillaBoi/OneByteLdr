@@ -58,4 +58,4 @@ if (ntOpenFile) {
 - Download the latest version of [Python 3](https://www.python.org/downloads/)
 - Open CMD and do `pip install pymem`
 - Open CMD and do `pip install win32api`
-- Open `Bypass.bat`. It should say that the process is being debugged. If there is an error then run the bat file as administrator by right clicking it.
+- Open `Bypass.bat`. It should say that "Process XXXXX is being debugged". If there is an error then run the bat file as administrator by right clicking it.
